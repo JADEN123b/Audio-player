@@ -196,7 +196,7 @@ function App() {
       <main>
         <div className="play-button-container">
           <img 
-            src="\src\assets\Images\image.png"
+            src="/src/assets/Images/image.png"
             alt="Music Player Logo" 
             className="music-logo"
             style={{ width: '200px', height: '300x' }}
